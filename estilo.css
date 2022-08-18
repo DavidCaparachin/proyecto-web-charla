@@ -1,5 +1,13 @@
+.text-comprar {
+	color: #319da0 !important;
+}
+
+#header img {
+	width: 200px;
+}
+
 #footer {
-	background: linear-gradient(90deg, #1c3643, #273b47 25%, #1e5372);
+	background: #319da0;
 }
 
 #footer a {
